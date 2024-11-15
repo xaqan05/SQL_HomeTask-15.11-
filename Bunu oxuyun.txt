@@ -1,0 +1,5 @@
+Men indiye kimi sql tasklarin database sag klik edib genereta script ederek githuba atmisam.
+Hec acib yoxlamamisdim nece gorunur yazdigim queryler,bu gun yoxlayanda gordumki yazdigim queryden elave basqa seylerde var,yeni qarisiq 
+gorunur.
+Ona gore queryleri yeniden yazib save edib atiram,xahis edirem nezere alarsiz,mence bu halda taski gecikdirmis sayilmiram
+sadece gite atdigim fayli yanlis save edirmisemmis.
